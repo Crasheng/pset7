@@ -1,0 +1,15 @@
+<div>
+    <img alt="Under Construction" src="/img/construction.gif"/>
+</div>
+<div>
+
+</div>
+<div>
+    <a href="buy.php">Buy</a>
+</div>
+<div>
+    <a href="looking_up.php">Look Up</a>
+</div>
+<div>
+    <a href="logout.php">Log Out</a>
+</div>
